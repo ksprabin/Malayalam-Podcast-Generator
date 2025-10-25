@@ -1,0 +1,5 @@
+{
+  "name": "Malayalam Podcast Generator",
+  "description": "An application that converts Malayalam text into high-quality speech using Google's Gemini API, allowing users to listen to and download the generated audio.",
+  "requestFramePermissions": []
+}
